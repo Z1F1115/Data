@@ -40,8 +40,8 @@ void CreateList(SqList *& L)
 //³õÊ¼»¯
 void InitList(SqList * &L)
 {
-	//L->data = new Student[MAXSIZE];
-	L = (SqList *)malloc(sizeof(SqList));
+	L = new SqList;
+	//L = (SqList *)malloc(sizeof(SqList));
 	L->length = 0;
 }
 
