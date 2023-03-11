@@ -1,8 +1,0 @@
-﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(4th2.7Chapters__3_10.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
-  main.cpp
-E:\data\WangZhuo\4th2.7Chapters__3_10\HomeWork_3_10\SqList.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  SqList.cpp
-E:\data\WangZhuo\4th2.7Chapters__3_10\HomeWork_3_10\SqList.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-E:\data\WangZhuo\4th2.7Chapters__3_10\HomeWork_3_10\SqList.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  正在生成代码...
-  HomeWork_3_10.vcxproj -> E:\data\WangZhuo\4th2.7Chapters__3_10\x64\Debug\HomeWork_3_10.exe
